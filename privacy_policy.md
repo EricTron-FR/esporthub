@@ -85,8 +85,7 @@ We may update this privacy policy periodically. Important changes will be notifi
 
 For any questions regarding this privacy policy or your personal data, contact us:
 
-- **Email**: [your-email@example.com]
-- **GitHub**: [link to your repository]
+- **Email**: eric.tron34@gmail.com
 
 ## Legal Information
 
